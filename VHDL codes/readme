@@ -1,0 +1,6 @@
+The NeuralNetwork is the top module
+The compiler has to set to VHDL 2008, otherwiise it will have problems with the fix point arithmetics
+The code rins in Vicado 2021.2
+
+The Neurons are controlled by the StateController. The StateController gives command to the neurons, like miltiply and add or give the output etc.
+The IOController deciddes what should be the neurons input based on the StateControllers commands.
