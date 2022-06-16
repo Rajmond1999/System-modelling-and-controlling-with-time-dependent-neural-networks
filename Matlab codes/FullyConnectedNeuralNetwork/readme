@@ -1,1 +1,4 @@
+The main file is the SelfBuildingNeuralNet
+There are some simulation data for testing in the file, currently the network learns to simulate a pendulum.
 
+The code was created in Matlab R2020b
